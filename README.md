@@ -1,4 +1,4 @@
-##PokeTap
+#PokeTap
 
 Summary: Each time you tap, your Pokémon either gains XP or you take health away from the opposing Pokémon and gain XP after you beat it. Each Pokémon has its own abilities/ bonuses that unlock as you evolve your Pokémon. These bonuses are things like: more XP per tap, auto tap while logged in, auto hit rate, auto hit XP per tap. The more Pokémon you catch and evolve, the more bonuses you have, making it easier to fully evolve Pokémon. The purpose of the game is to get as many Pokémon evolved as you can. 
 
