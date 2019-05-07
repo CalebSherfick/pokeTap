@@ -1,8 +1,8 @@
-#PokeTap
+# **PokeTap**
 
-Summary: Each time you tap, your Pokémon either gains XP or you take health away from the opposing Pokémon and gain XP after you beat it. Each Pokémon has its own abilities/ bonuses that unlock as you evolve your Pokémon. These bonuses are things like: more XP per tap, auto tap while logged in, auto hit rate, auto hit XP per tap. The more Pokémon you catch and evolve, the more bonuses you have, making it easier to fully evolve Pokémon. The purpose of the game is to get as many Pokémon evolved as you can. 
+**Summary:** Each time you tap, your Pokémon either gains XP or you take health away from the opposing Pokémon and gain XP after you beat it. Each Pokémon has its own abilities/ bonuses that unlock as you evolve your Pokémon. These bonuses are things like: more XP per tap, auto tap while logged in, auto hit rate, auto hit XP per tap. The more Pokémon you catch and evolve, the more bonuses you have, making it easier to fully evolve Pokémon. The purpose of the game is to get as many Pokémon evolved as you can. 
 
-User Stories (Kind of): 
+**User Stories _(Kind of)_:** 
 Can log in and save my progress automatically
 Get to choose a starter Pokémon at beginning 
 Random Pokémon will appear based on your tap rate level or we can have different areas with different levels of Pokémon so if a player wanted to instantly try to fight Mewtwo, they could go to the cerulean cave area and try to fight him and they could beat him, it would just require tapping for days on end to actually defeat him. 
