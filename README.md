@@ -10,3 +10,10 @@ Each Pokémon you defeat will automatically be added to your Pokédex and PC. Yo
 Once a Pokémon is max level, either they are done leveling up, or you could make it where the Pokémon is “perfectly trained” and it doubles their stats completely. 
 As you go along collecting Pokémon, your stats will get better and better and higher level Pokémon requiring more taps will be easier to defeat. 
 Each Pokémon has a different move when you tap to defeat the opposing Pokémon. Pikachu would be using thunder every time, charizard would be using flamethrower every time. Maybe there is a way to change out the move. Each move could have a chance to do more damage or temporarily increase the damage rate or some sort of bonus like that. 
+
+**SCHEMAS**
+User
+Pokedex
+Pokemon
+Target
+Modifier
